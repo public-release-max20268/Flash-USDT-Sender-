@@ -169,6 +169,7 @@ If you find this project useful:
 
 Help grow the blockchain developer community 🚀
 
-for more information or support 
-contact us on via telegram channel 
+For more information or support 
+contact us on via telegram channel
+to buy this flash USDT Sender 👇👇👇 
 https://t.me/H16kM4w

@@ -116,22 +116,6 @@ This simulator demonstrates core blockchain mechanics:
 - Windows / Linux / macOS  
 - Basic understanding of crypto wallets  
 
-### ▶️ Run the Application
-
-```bash
-python main.py
-```
-
----
-
-## 🔧 Configuration
-
-Edit the `config.json` file:
-
-```json
-{ 
-
----
 
 ## 🧪 Use Cases
 

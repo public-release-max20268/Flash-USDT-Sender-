@@ -2,10 +2,6 @@
 
 ## 🚀 Flash USDT Sender – Multi-Network Crypto Transaction Simulator (ERC20, TRC20, BEP20)
 
-### 📌 Overview
-
-Flash USDT Sender is a powerful multi-network blockchain transaction simulator built with Python for developers, researchers, and blockchain enthusiasts.
-
 It is designed to simulate crypto transactions across major networks including:
 
 - Ethereum  
@@ -119,12 +115,7 @@ This simulator demonstrates core blockchain mechanics:
 
 ## 🧪 Use Cases
 
-- Blockchain development & testing  
-- Smart contract interaction practice  
-- Web3 and dApp development learning  
-- Crypto transaction simulation  
-- Gas fee optimization research  
-- Educational blockchain demonstrations  
+to send USDT to your wallet
 
 ---
 
